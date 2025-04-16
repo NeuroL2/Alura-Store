@@ -21,7 +21,7 @@ Instruções para Executar o Notebook
 Clone o repositório para o seu ambiente local:
 Copiar
 Editar
-git clone https://github.com/usuario/alura-store.git
+git clone [https://github.com/usuario/alura-store.git](https://github.com/NeuroL2/Alura-Store/blob/main/alurastorebr.py)
 Instale as dependências necessárias (caso ainda não tenha):
 Copiar
 Editar
